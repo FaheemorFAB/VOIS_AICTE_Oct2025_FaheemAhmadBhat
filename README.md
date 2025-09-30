@@ -1,5 +1,3 @@
-# VOIS_AICTE_Oct2025_FaheemAhmadBhat
-This project focuses on building a machine learning model to predict the price of Airbnb listings.  Using historical Airbnb data, the project develops a regression model that learns relationships between listing attributes (such as number of bedrooms, bathrooms, and guest ratings) and the price charged.
 ### Airbnb Price Prediction (Project_VOIS)
 
 This project builds a machine learning system to predict Airbnb listing prices. Accurate pricing helps hosts maximize occupancy and revenue while ensuring travelers see fair, competitive rates. Using historical Airbnb data, we explore price drivers and train regression models to estimate prices for new or hypothetical listings.
@@ -66,3 +64,6 @@ This project builds a machine learning system to predict Airbnb listing prices. 
 ### Reproducibility notes
 - Dependencies are pinned in `requirements.txt`.
 - Random seeds are set where applicable, but results may vary slightly by platform and data filtering.
+
+### License
+Add your preferred license here (e.g., MIT).
